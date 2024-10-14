@@ -1,7 +1,7 @@
-public class CaesarCiper {
+public class Ciper {
     private String alphabet;
 
-    public CaesarCiper(String alphabet) {
+    public Ciper(String alphabet) {
         this.alphabet = alphabet;
     }
 
